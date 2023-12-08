@@ -23,7 +23,7 @@ public class GameController : MonoBehaviour
     {
         gameOverCanvas.SetActive(true);
         spawner.SetActive(false);
-        Time.timeScale = 0
+        Time.timeScale = 0;
     }
 
     // Update is called once per frame
