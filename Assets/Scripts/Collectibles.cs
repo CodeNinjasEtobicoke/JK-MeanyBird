@@ -9,6 +9,7 @@ public class Collectibles : MonoBehaviour
     {
         Score.score++;
     }
+
 }
 
     // Update is called once per frame
